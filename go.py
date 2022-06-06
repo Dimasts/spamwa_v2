@@ -8,12 +8,12 @@ def mengetik(z):
       time.sleep(0.05)
 
 os.system('clear')
-print ('\033[36;1mSubscribe yt ku ngab \033[37mMisterAM \033[36mok! :v')
-os.system('termux-open-url https://youtube.com/channel/UCXk4vbvDl7i6dxWBtNdpx6w')
+print ('\033[36;1mSubscribe yt ku ngab \033[37mDMS \033[36mok! :v')
+os.system('termux-open-url https://youtube.com/channel/UCKue93qD9mySc3RrtwxMRmQ')
 sleep(5)
 os.system('clear')
-print ('\033[36;1mjoin grub \033[37;1mwa gua ngab :v')
-os.system('xdg-open https://cararegistrasi.com/5QxXfcSkSsm')
+print ('\033[36;1mFollow \033[37;1mig gua ngab :v')
+os.system('xdg-open https://dimasts21.my.id')
 sleep(3)
 os.system('clear')
 # Ubah Terserah kalian
@@ -27,9 +27,9 @@ banner= """
 \033[31;1m ╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝ \033[36;1m ╚═╝    ╚═╝╚═╝  ╚═╝
 
 \033[33;1m╔════════════════════════════════════════════════╗
-\033[33;1m║  \033[36;1m [•] Authour : MisterAM                      \033[33;1m ║
-\033[33;1m║  \033[36;1m [•] gitHub  : https:github.com/Mister-AM    \033[33;1m ║
-\033[33;1m║  \033[36;1m [•] Yotube  : MisterAM                      \033[33;1m ║
+\033[33;1m║  \033[36;1m [•] Authour : Dimas Ts                      \033[33;1m ║
+\033[33;1m║  \033[36;1m [•] gitHub  : https:github.com/Dimasts      \033[33;1m ║
+\033[33;1m║  \033[36;1m [•] Recode  : Dimas Ts                      \033[33;1m ║
 \033[33;1m╚════════════════════════════════════════════════╝
 \033[36;1m╔═══════════════════════════╗
 \033[36;1m║\033[33;1m GUNAKAN DENGAB BJIAK NGAB\033[36;1m ║
@@ -44,7 +44,7 @@ print ("\033[37m[\033[31m•\033[37m]\033[32m Contoh nomor\033[37m : \033[37m\03
 no = input('\033[37m[\033[31m•\033[37m]\033[32m Nomor Target\033[32m \033[37m:\033[37m\033[33m ')
 print ("\033[1;30m<════════════[\033[1;33;41m • \033[1;37m MASUKAN JUMLAH \033[1;33m• \033[0m\033[1;30m]═════════════>")
 jm = int(input('\033[37m[\033[31m•\033[37m]\033[32m Jumlah Spam\033[37m :\033[37m\033[33m '))
-mengetik("[KALO SUDAH LIMIT TUNGUH BEBERAPA MENIT LAGI BARU ULANGI NGAB :V] ")
+mengetik("[KALO SUDAH LIMIT TUNGGU BEBERAPA MENIT LAGI BARU ULANGI NGAB :V] ")
 time.sleep(3)
 
 head = {
